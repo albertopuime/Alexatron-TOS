@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+Preview your Terms of Service
+Website Terms and Conditions of Use
+1. Terms
+By accessing this Website, accessible from https://albertopuime.github.io/Alexatron-TOS/, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.
 
-You can use the [editor on GitHub](https://github.com/albertopuime/Alexatron-TOS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+2. Use License
+Permission is granted to temporarily download one copy of the materials on Alexatron TOS's Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+modify or copy the materials;
+use the materials for any commercial purpose or for any public display;
+attempt to reverse engineer any software contained on Alexatron TOS's Website;
+remove any copyright or other proprietary notations from the materials; or
+transferring the materials to another person or "mirror" the materials on any other server.
+This will let Alexatron TOS to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format. These Terms of Service has been created with the help of the Terms Of Service Generator.
 
-### Markdown
+3. Disclaimer
+All the materials on Alexatron TOS’s Website are provided "as is". Alexatron TOS makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Alexatron TOS does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. Limitations
+Alexatron TOS or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Alexatron TOS’s Website, even if Alexatron TOS or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.
 
-```markdown
-Syntax highlighted code block
+5. Revisions and Errata
+The materials appearing on Alexatron TOS’s Website may include technical, typographical, or photographic errors. Alexatron TOS will not promise that any of the materials in this Website are accurate, complete, or current. Alexatron TOS may change the materials contained on its Website at any time without notice. Alexatron TOS does not make any commitment to update the materials.
 
-# Header 1
-## Header 2
-### Header 3
+6. Links
+Alexatron TOS has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Alexatron TOS of the site. The use of any linked website is at the user’s own risk.
 
-- Bulleted
-- List
+7. Site Terms of Use Modifications
+Alexatron TOS may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.
 
-1. Numbered
-2. List
+8. Your Privacy
+Please read our Privacy Policy.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/albertopuime/Alexatron-TOS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+9. Governing Law
+Any claim related to Alexatron TOS's Website shall be governed by the laws of es without regards to its conflict of law provisions..
